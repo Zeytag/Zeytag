@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @Zeytag
-- 👀 I’m interested in Informatique
-- 🌱 I’m currently learning " Au Fond Du Dark Web " Qin Hui
-- 💞️ I’m looking to collaborate on Ovh Cloud
-- 📫 How to reach me kolkaz59@yandex.com
-- 😄 Pronouns: he / Him
-- ⚡ Fun fact: Book
+Voici @Akechi, maître du HTML et futur pro du web. Passionné, curieux et toujours prêt à coder des projets qui claquent. Ici pour apprendre, expérimenter et montrer que même un débutant peut créer du lourd. 🚀💻
 
-<!---
-Zeytag/Zeytag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
